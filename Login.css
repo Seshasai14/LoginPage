@@ -1,0 +1,23 @@
+body
+{
+    margin: 4rem;
+    background-color:BAD7E9;
+}
+h1
+{
+    font-family: 'Tilt Warp', cursive;
+    margin: 7% 15%;
+    text-align: center;
+}
+label
+{
+    font-family: 'Golos Text', sans-serif;
+}
+.txt
+{
+    font-size: 1.3rem;
+}
+.button
+{
+    margin: 5% 3% 3% 0%;
+}
